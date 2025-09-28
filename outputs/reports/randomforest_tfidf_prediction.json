@@ -1,0 +1,7 @@
+{
+  "model": "RandomForest",
+  "method": "tfidf",
+  "prediction": "Debt collection",
+  "probability": 0.6,
+  "sample_text": "I need help getting a refund for a service I never signed up for."
+}

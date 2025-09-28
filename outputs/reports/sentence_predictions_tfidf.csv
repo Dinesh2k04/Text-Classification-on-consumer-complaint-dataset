@@ -1,0 +1,11 @@
+sentence,rf_prediction,logistic_prediction,rf_probability,logistic_probability
+I was charged an extra fee on my credit report that I do not recognize.,"Credit reporting, repair, or other","Credit reporting, repair, or other",0.5,0.6008612392830895
+The company refuses to explain why the payment was taken.,Debt collection,Debt collection,0.5,0.3831950022433629
+I have emailed support multiple times with no reply.,Debt collection,"Credit reporting, repair, or other",0.5760027328992846,0.4512795766476402
+My loan interest rate increased unexpectedly after refinancing.,Mortgage,Mortgage,0.6,0.6174316633130635
+I received threatening calls from a debt collector.,Debt collection,Debt collection,1.0,0.9828134873631301
+The mortgage company lost my payment and now claims I'm late.,Mortgage,Mortgage,0.9,0.8988955326240201
+My credit score dropped after an incorrect report was filed.,"Credit reporting, repair, or other","Credit reporting, repair, or other",0.8,0.9257610405907066
+I was denied a consumer loan without a clear reason.,Mortgage,"Credit reporting, repair, or other",0.5,0.6443752519014907
+Unauthorized accounts were opened in my name and I want them removed.,"Credit reporting, repair, or other","Credit reporting, repair, or other",0.8,0.6361198819257505
+I need help getting a refund for a service I never signed up for.,Debt collection,Debt collection,0.6,0.45503385721149886

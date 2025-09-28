@@ -1,0 +1,39 @@
+{
+    "Credit reporting, repair, or other": {
+        "precision": 0.7090909090909091,
+        "recall": 0.0824524312896406,
+        "f1-score": 0.14772727272727273,
+        "support": 1892.0
+    },
+    "Debt collection": {
+        "precision": 0.9254992500915242,
+        "recall": 0.9707722227727679,
+        "f1-score": 0.9475952963937003,
+        "support": 161456.0
+    },
+    "Consumer Loan": {
+        "precision": 0.9121562845558422,
+        "recall": 0.8498097553605033,
+        "f1-score": 0.8798799652980246,
+        "support": 72801.0
+    },
+    "Mortgage": {
+        "precision": 0.9289908400532373,
+        "recall": 0.8856545753097477,
+        "f1-score": 0.9068052424439265,
+        "support": 26796.0
+    },
+    "accuracy": 0.9222156724790356,
+    "macro avg": {
+        "precision": 0.8689343209478781,
+        "recall": 0.6971722461831649,
+        "f1-score": 0.7205019442157311,
+        "support": 262945.0
+    },
+    "weighted avg": {
+        "precision": 0.920603681928896,
+        "recall": 0.9222156724790356,
+        "f1-score": 0.9189349134029178,
+        "support": 262945.0
+    }
+}

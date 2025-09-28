@@ -1,0 +1,43 @@
+timestamp,model,method,prediction,probability,sample_text
+,LogisticRegression,tfidf,Mortgage,0.44635896016120946,I was charged an extra fee on my credit report that I do not recognize. The company refuses to explain why the payment was taken. I have emailed support multiple times with no reply. My loan interest rate increased unexpectedly after refinancing. I received threatening calls from a debt collector. The mortgage company lost my payment and now claims I'm late. My credit score dropped after an incorrect report was filed. I was denied a consumer loan without a clear reason. Unauthorized accounts were opened in my name and I want them removed. I need help getting a refund for a service I never signed up for.
+,RandomForest,tfidf,Debt collection,0.5,I was charged an extra fee on my credit report that I do not recognize. The company refuses to explain why the payment was taken. I have emailed support multiple times with no reply. My loan interest rate increased unexpectedly after refinancing. I received threatening calls from a debt collector. The mortgage company lost my payment and now claims I'm late. My credit score dropped after an incorrect report was filed. I was denied a consumer loan without a clear reason. Unauthorized accounts were opened in my name and I want them removed. I need help getting a refund for a service I never signed up for.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.6008612392830895,I was charged an extra fee on my credit report that I do not recognize.
+,RandomForest,tfidf,"Credit reporting, repair, or other",0.5,I was charged an extra fee on my credit report that I do not recognize.
+,LogisticRegression,tfidf,Debt collection,0.3831950022433629,The company refuses to explain why the payment was taken.
+,RandomForest,tfidf,Debt collection,0.5,The company refuses to explain why the payment was taken.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.4512795766476402,I have emailed support multiple times with no reply.
+,RandomForest,tfidf,Debt collection,0.5760027328992846,I have emailed support multiple times with no reply.
+,LogisticRegression,tfidf,Mortgage,0.6174316633130635,My loan interest rate increased unexpectedly after refinancing.
+,RandomForest,tfidf,Mortgage,0.6,My loan interest rate increased unexpectedly after refinancing.
+,LogisticRegression,tfidf,Debt collection,0.9828134873631301,I received threatening calls from a debt collector.
+,RandomForest,tfidf,Debt collection,1.0,I received threatening calls from a debt collector.
+,LogisticRegression,tfidf,Mortgage,0.8988955326240201,The mortgage company lost my payment and now claims I'm late.
+,RandomForest,tfidf,Mortgage,0.9,The mortgage company lost my payment and now claims I'm late.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.9257610405907066,My credit score dropped after an incorrect report was filed.
+,RandomForest,tfidf,"Credit reporting, repair, or other",0.8,My credit score dropped after an incorrect report was filed.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.6443752519014907,I was denied a consumer loan without a clear reason.
+,RandomForest,tfidf,Mortgage,0.5,I was denied a consumer loan without a clear reason.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.6361198819257505,Unauthorized accounts were opened in my name and I want them removed.
+,RandomForest,tfidf,"Credit reporting, repair, or other",0.8,Unauthorized accounts were opened in my name and I want them removed.
+,LogisticRegression,tfidf,Debt collection,0.45503385721149886,I need help getting a refund for a service I never signed up for.
+,RandomForest,tfidf,Debt collection,0.6,I need help getting a refund for a service I never signed up for.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.6008612392830895,I was charged an extra fee on my credit report that I do not recognize.
+,RandomForest,tfidf,"Credit reporting, repair, or other",0.5,I was charged an extra fee on my credit report that I do not recognize.
+,LogisticRegression,tfidf,Debt collection,0.3831950022433629,The company refuses to explain why the payment was taken.
+,RandomForest,tfidf,Debt collection,0.5,The company refuses to explain why the payment was taken.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.4512795766476402,I have emailed support multiple times with no reply.
+,RandomForest,tfidf,Debt collection,0.5760027328992846,I have emailed support multiple times with no reply.
+,LogisticRegression,tfidf,Mortgage,0.6174316633130635,My loan interest rate increased unexpectedly after refinancing.
+,RandomForest,tfidf,Mortgage,0.6,My loan interest rate increased unexpectedly after refinancing.
+,LogisticRegression,tfidf,Debt collection,0.9828134873631301,I received threatening calls from a debt collector.
+,RandomForest,tfidf,Debt collection,1.0,I received threatening calls from a debt collector.
+,LogisticRegression,tfidf,Mortgage,0.8988955326240201,The mortgage company lost my payment and now claims I'm late.
+,RandomForest,tfidf,Mortgage,0.9,The mortgage company lost my payment and now claims I'm late.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.9257610405907066,My credit score dropped after an incorrect report was filed.
+,RandomForest,tfidf,"Credit reporting, repair, or other",0.8,My credit score dropped after an incorrect report was filed.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.6443752519014907,I was denied a consumer loan without a clear reason.
+,RandomForest,tfidf,Mortgage,0.5,I was denied a consumer loan without a clear reason.
+,LogisticRegression,tfidf,"Credit reporting, repair, or other",0.6361198819257505,Unauthorized accounts were opened in my name and I want them removed.
+,RandomForest,tfidf,"Credit reporting, repair, or other",0.8,Unauthorized accounts were opened in my name and I want them removed.
+,LogisticRegression,tfidf,Debt collection,0.45503385721149886,I need help getting a refund for a service I never signed up for.
+,RandomForest,tfidf,Debt collection,0.6,I need help getting a refund for a service I never signed up for.
